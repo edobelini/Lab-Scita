@@ -8,11 +8,12 @@
 
 
 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="">
-  <h3 align="center"> Scita Lab </h3>
+  <h3 align="center"> <a href="https://www.ifom.eu/it/ricerca-cancro/ricerca-lab/ricerca-lab-scita.php">Scita Lab</a> </h3>
   </a>
   <p align="center">
     Mechanisms of Tumor Cell Migration Building 2, Floor 1, lab A
@@ -68,15 +69,15 @@ Born in 1963 near Parma, Scita enrolled in the Faculty of Biology at the Univers
 </p>
 </li>
   <li><a href="andrea.palamidessi@ifom.eu">Andrea Disanza</a>  <p align="center">
-<img src="photo/GiorgioScita.png" width="300" height="300" /> </p>  Bio Andrea P. </p>
+<img src="photo/AndreaP.jpg" width="300" height="300" /> </p>  Bio Andrea P. </p>
 </p>
 </li>
   <li><a href="emanuela.frittoli@ifom.eu">Emanuela Frittoli</a> <p align="center">
-<img src="photo/GiorgioScita.png" width="300" height="350" /> </p> Bio Emy F </p>
+<img src="photo/Emy.jpg" width="300" height="300" /> </p> Bio Emy F </p>
 </p> 
   </li>
-  <li><a href="andrea.disanza@ifom.eu">Andrea Disanza</a>  <p align="center">
-<img src="photo/GiorgioScita.png" width="300" height="350" /> </p> Bio Andrea D. </p>
+  <li> <a href="andrea.disanza@ifom.eu">Andrea Disanza</a>  <p align="center">
+<img src="photo/AndreaD.jpg" width="300" height="300" /> </p> Bio Andrea D. </p>
 </p>
 </li>
   <li> <a href="monica.corada@ifom.eu">Monica Corada</a> <p align="center">
@@ -84,18 +85,34 @@ Born in 1963 near Parma, Scita enrolled in the Faculty of Biology at the Univers
 </p>
 </li>
   <li> <a href="stefano.marchesi@ifom.eu">Stefano Marchesi </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="350" /> </p> Bio stefano </p>
+<img src="photo/Stefano.jpg" width="300" height="300" /> </p> Bio stefano </p>
 </p>  
 </li>
-  <li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>  
+  <li> <a href="brenda.green@ifom.eu">Hind Abdo </a> <p align="center">
+<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Brenda </p>  
 </p>  
 </li>
-  <li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
+  </li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
 <img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
 </p>  
 </li>
-  </ul>
+  </li> <a href="edoardo.bellini@ifom.eu">Edoardo Bellini</a> <p align="center">
+<img src="photo/edobellini.jpg" width="300" height="300" /> </p> Edoardo Bellini is a computational biologist and Bioinformatician working on basic research in the lab, and in the Bioinformatics Core of the <a href="https://www.ifom.eu/en/">IFOM </a> institute. His work is focused on all NGS data type coming from breast cancer disease models. He earned a Master Degree in Biology in 2018 at the University of Milano Bicocca and a Master in Bioinformatics and Functional Genomics in 2020 at University of Milan and INGM. He has gained previous research experiences as Bioinformatician at the San Raffaele Hospital analizyng all type of omics data and also as Computational Biologist as <a href="https://www.r-project.org/">R </a> package developer.</p>
+</p>  
+</li>
+  </li> <a href="leonardo.barzaghi@ifom.eu">Leonardo Barzaghi </a> <p align="center">
+<img src="photo/Leonardo.jpg" width="300" height="300" /> </p> Leonardo Barzaghi earned his Bachelor's degree in Medical Biotechnology and later completed his Master's degree in Molecular Biotechnology and Bioinformatics at Università degli Studi di Milano. During his Master's program, he joined the research team led by Giorgio Scita, exploring the role of RAB5A protein family members in collective motility within epithelial cell monolayers. Intrigued by the multidisciplinary approaches used in his lab, Leonardo chose to continue his academic journey under the mentorship of Giorgio Scita, pursuing a Ph.D. in Molecular Oncology at SEMM. Now in his fourth year, Leonardo's research focus is at the intersection of cell biology and biophysics. He is specifically investigating the complex role of mechanical heterogeneity in breast cancer invasion, utilising 2D and 3D in vitro models. Leonardo's expertise includes live cell imaging and image analysis, with a particular emphasis on characterising collective cell motility at a biophysical level. </p>
+</p>  
+</li>
+  </li> <a href="camillo.mazzella@ifom.eu">Camillo Mazzella </a> <p align="center">
+<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
+</p>  
+</li>
+  </li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
+<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
+</p> 
+  </li>
+</ul>
 
 
 
