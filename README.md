@@ -59,67 +59,133 @@ The main focus of our team is
 
 <!-- people -->
 ## People
-<ul>
-  <li> <a href="https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php">Giorgio Scita</a> </p>
+
 <p align="center">
 <img src="photo/GiorgioScita.png" width="1000" height="280" /> </p> 
-</p> 
+<details><summary><a href="https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php">Giorgio Scita</a> </summary>
+</p align="justified"> 
 A cell biologist and expert on the dynamics of cell movement, Giorgio Scita directs the Mechanisms of Tumor Cell Migration research unit at IFOM.
 Born in 1963 near Parma, Scita enrolled in the Faculty of Biology at the University of Parma in 1982 with a precise intention: to study animal behavior alongside the famous Italian ethologist Danilo Mainardi.
 </p>
-</li>
-  <li><a href="andrea.palamidessi@ifom.eu">Andrea Disanza</a>  <p align="center">
-<img src="photo/AndreaP.jpg" width="300" height="300" /> </p>  Bio Andrea P. </p>
-</p>
-</li>
-  <li><a href="emanuela.frittoli@ifom.eu">Emanuela Frittoli</a> <p align="center">
-<img src="photo/Emy.jpg" width="300" height="300" /> </p> Bio Emy F </p>
-</p> 
-  </li>
-  <li> <a href="andrea.disanza@ifom.eu">Andrea Disanza</a>  <p align="center">
-<img src="photo/AndreaD.jpg" width="300" height="300" /> </p> Bio Andrea D. </p>
-</p>
-</li>
-  <li> <a href="monica.corada@ifom.eu">Monica Corada</a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="350" /> </p> Bio Monica  </p>
-</p>
-</li>
-  <li> <a href="stefano.marchesi@ifom.eu">Stefano Marchesi </a> <p align="center">
-<img src="photo/Stefano.jpg" width="300" height="300" /> </p> Bio stefano </p>
-</p>  
-</li>
-  <li> <a href="brenda.green@ifom.eu">Hind Abdo </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Brenda </p>  
-</p>  
-</li>
-  </li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
-</p>  
-</li>
-  </li> <a href="edoardo.bellini@ifom.eu">Edoardo Bellini</a> <p align="center">
-<img src="photo/edobellini.jpg" width="300" height="300" /> </p> Edoardo Bellini is a computational biologist and Bioinformatician working on basic research in the lab, and in the Bioinformatics Core of the <a href="https://www.ifom.eu/en/">IFOM </a> institute. His work is focused on all NGS data type coming from breast cancer disease models. He earned a Master Degree in Biology in 2018 at the University of Milano Bicocca and a Master in Bioinformatics and Functional Genomics in 2020 at University of Milan and INGM. He has gained previous research experiences as Bioinformatician at the San Raffaele Hospital analizyng all type of omics data and also as Computational Biologist as <a href="https://www.r-project.org/">R </a> package developer.</p>
-</p>  
-</li>
-  </li> <a href="leonardo.barzaghi@ifom.eu">Leonardo Barzaghi </a> <p align="center">
-<img src="photo/Leonardo.jpg" width="300" height="300" /> </p> Leonardo Barzaghi earned his Bachelor's degree in Medical Biotechnology and later completed his Master's degree in Molecular Biotechnology and Bioinformatics at Università degli Studi di Milano. During his Master's program, he joined the research team led by Giorgio Scita, exploring the role of RAB5A protein family members in collective motility within epithelial cell monolayers. Intrigued by the multidisciplinary approaches used in his lab, Leonardo chose to continue his academic journey under the mentorship of Giorgio Scita, pursuing a Ph.D. in Molecular Oncology at SEMM. Now in his fourth year, Leonardo's research focus is at the intersection of cell biology and biophysics. He is specifically investigating the complex role of mechanical heterogeneity in breast cancer invasion, utilising 2D and 3D in vitro models. Leonardo's expertise includes live cell imaging and image analysis, with a particular emphasis on characterising collective cell motility at a biophysical level. </p>
-</p>  
-</li>
-  </li> <a href="camillo.mazzella@ifom.eu">Camillo Mazzella </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
-</p>  
-</li>
-  </li> <a href="hind.abdo@ifom.eu">Hind Abdo </a> <p align="center">
-<img src="photo/MonicaCorada.JPG" width="300" height="300" /> </p> Bio Hind </p>
-</p> 
-  </li>
-</ul>
+</details>
 
+
+<p align="center">
+<img src="photo/AndreaP.jpg" width="300" height="300" />  </p>
+<details><summary><a href="andrea.palamidessi@ifom.eu">Andrea Palamidessi</a>
+</summary>
+</p align="justified"> 
+Bio Andrea P.
+</p>
+</details>
+
+<p align="center">
+<img src="photo/Emy.jpg" width="300" height="300" />  </p>
+<details><summary><a href="emanuela.frittoli@ifom.eu">Emanuela Frittoli</a>
+</summary>
+</p align="justified"> 
+Bio Emy P.
+</p>
+</details>
+
+
+<p align="center">
+<img src="photo/AndreaD.jpg" width="300" height="300" />  </p>
+<details><summary><a href="andrea.disanza@ifom.eu">Andrea Disanza</a>
+</summary>
+</p align="justified"> 
+My name is Andrea Disanza and I am a Cellular and Molecular Biologist. I earned my degree in Biological Sciences at “Università degli Studi di Milano” and my PhD in partnership with the Open University, London, UK, carrying out my research project at the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, under the supervision of Prof. Giorgio Scita and Prof. Pier Paolo di Fiore and at the LEBS, CNRS, Gif-sur-Yvette, France under the supervision of Dr. Marie France Carlier. I completed my scientific training with a two years Post Doc. Since 2008 I hold the position of Staff Scientist in the laboratory of Prof. Giorgio Scita “Mechanism of tumor cell migration” and the position of Teaching Assistant in General Patology at “Università degli Studi di Milano”, Dipartimento Scienze della Saute, Milan, Italy. My research experience ranges across several subjects: molecular biology, cell biology and biochemistry, biochemistry and actin biochemistry, ex vivo and in vivo mouse models and microscopy (Wide Field/Confocal/TIRF). My studies are focused on the interplay between membrane and actin dynamics in the control of migratory and invasive strategies in cancer with an insight in the role of the I-BAR containing protein IRSp53.
+</p>
+</details>
+
+
+<p align="center">
+<img src="photo/MonicaCorada.JPG" width="300" height="300" />  </p>
+<details><summary><a href="monica.corada@ifom.eu">Monica Corada</a>
+</summary>
+</p align="justified"> 
+Bio Monica C.
+</p>
+</details>
+
+<p align="center">
+<img src="photo/Stefano.jpg" width="300" height="300" />  </p>
+<details><summary><a href="stefano.marchesi@ifom.eu">Stefano Marchesi</a>
+</summary>
+</p align="justified"> 
+Bio Stefano M.
+</p>
+</details>
+
+<p align="center">
+<img src="photo/Hind.jpg" width="300" height="300" />  </p>
+<details><summary><a href="hind.abdo@ifom.eu">Hind Abdo</a>
+</summary>
+</p align="justified"> 
+Bio Hind.
+</p>
+</details>
+
+
+<p align="center">
+<img src="photo/Brenda.jpg" width="300" height="300" />  </p>
+<details><summary><a href="brenda.green@ifom.eu">Brenda Green</a>
+</summary>
+</p align="justified"> 
+Bio Brenda.
+</p>
+</details>
+
+<p align="center">
+<img src="photo/edobellini.jpg" width="300" height="300" />  </p>
+<details><summary><a href="edoardo.bellini@ifom.eu">Edoardo Bellini</a>
+</summary>
+</p align="justified"> 
+Edoardo Bellini is a computational biologist and Bioinformatician working on basic research in the lab, and in the Bioinformatics Core of the <a href="https://www.ifom.eu/en/">IFOM </a> institute. His work is focused on all NGS data type coming from breast cancer disease models. He earned a Master Degree in Biology in 2018 at the University of Milano Bicocca and a Master in Bioinformatics and Functional Genomics in 2020 at University of Milan and INGM. He has gained previous research experiences as Bioinformatician at the San Raffaele Hospital analizyng all type of omics data and also as Computational Biologist as <a href="https://www.r-project.org/">R </a> package developer.
+</p>
+</details>
+
+
+<p align="center">
+<img src="photo/Ema.jpg" width="300" height="300" />
+<details><summary><a href="emanuele.martini@ifom.eu">Emanuele Martini </a> </summary>
+ </p> Bioimaging and biological data analysis specialist with 10 years of experience in developing analysis routines and workflows to extract meaningful biological knowledge from images and biological data, ML/AI included.  </p>
+</details>
+
+
+<p align="center">
+<img src="photo/Leonardo.jpg" width="300" height="300" />
+<details><summary><a href="leonardo.barzaghi@ifom.eu">Leonardo Barzaghi </a> </summary>
+ </p> Leonardo Barzaghi earned his Bachelor's degree in Medical Biotechnology and later completed his Master's degree in Molecular Biotechnology and Bioinformatics at Università degli Studi di Milano. During his Master's program, he joined the research team led by Giorgio Scita, exploring the role of RAB5A protein family members in collective motility within epithelial cell monolayers. Intrigued by the multidisciplinary approaches used in his lab, Leonardo chose to continue his academic journey under the mentorship of Giorgio Scita, pursuing a Ph.D. in Molecular Oncology at SEMM. Now in his fourth year, Leonardo's research focus is at the intersection of cell biology and biophysics. He is specifically investigating the complex role of mechanical heterogeneity in breast cancer invasion, utilising 2D and 3D in vitro models. Leonardo's expertise includes live cell imaging and image analysis, with a particular emphasis on characterising collective cell motility at a biophysical level.  </p>
+</details>
+
+<p align="center">
+<img src="photo/Camillo.jpg" width="300" height="300" />
+<details><summary><a href="camillo.mazzella@ifom.eu">Camillo Mazzella </a> </summary>
+ </p> Hi, I'Camillo Mazzella. I started as an engineer with a master’s degree in Industrial Bioengineering  Naples Federico II. 
+Because I am interested in the oncology field, I completed a traineeship at ANGLE plc to model microfluidic devices for liquid biopsy. Then, I focused my career on oncology research to have better understand tumor biology. Actually, I'm a PhD student at IFOM, to study the impact of cell motility in cancer progression, within the group of Professor Giorgio Scita.  </p>
+</details>
+
+
+
+<p align="center">
+<img src="photo/Mona.jpg" width="300" height="300" />
+<details><summary><a href="mona.makkieh@ifom.eu">Mona Makkieh </a> </summary>
+ </p> Mona Makkieh, research technician with a strong background in molecular oncology, actively contributing to cutting-edge research in Scita's group at IFOM, focusing on examining breast tumor cluster deformability as well as capturing circulating tumor cells. As an Erasmus Alumni, Mona spent a fruitful year as Student Researcher in the Department of Neuroscience at the University of Copenhagen, conducting structural studies on various G protein-coupled receptors (GPCRs) and investigating their correlation with cancer development. Regarding her educational background, Mona holds a Master's Degree in Molecular Biology and Genetics from the University of Pavia in Italy and a Bachelor's Degree in Medical Laboratory Technology from the Beirut Arab University in Lebanon. Mona's skill set is extensive and focused, covering DNA, RNA, protein, and plasmid purification, gene cloning, site-directed mutagenesis, microfluidics, spheroid assays, PCR/DNA sequencing, Southern/Western blotting, mammalian and insect cell cultures, cryo-sectioning, transfection, preparing membranes, saturation binding assay, competition binding assay, gel electrophoresis, and HPLC.  </p>
+</details>
+
+
+<p align="center">
+<img src="photo/Davide.jpg" width="300" height="300" />
+<details><summary><a href="davidelazzari7@gmail.com">Mona Makkieh </a> </summary>
+ </p> Bio Davide </p>
+</details>
 
 
 <!-- Pipelines -->
 ## Pipelines
-In pipeline folder are present all our lab piplines in snakemake. Within every folder are present:
-* `.sk` file, that contain all rules sequence.
+In pipeline folder are present all our lab piplines in snakemake or nextflow. Within every folder are present:
+* `.sk` or * `.nf` file, that contain all rules sequence.
  ```bash 
  head pipeline/Chip_seq/Chipseq.sk
 
