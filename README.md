@@ -76,7 +76,7 @@ Bio Andrea P.
 <details><summary><a href="emanuela.frittoli@ifom.eu"><font size="+1"> Emanuela Frittoli </font> </a>
 </summary>
 </p align="justified"> 
-Bio Emy P.
+My name is Emanuela Frittoli and I am a Cellular and Molecular Biologist. I earned my degree in Farmacist at “Università degli Studi di Milano” and my Techincal Biochemicl research diploma, at Mario Negri Institute. Then i'have moved Hospital San Raffaele in Paolo Lusso virology Lab. After i moved to the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, with of Prof. Giorgio Scita and Prof. Pier Paolo di Fiore.
 </p>
 </details>
 
@@ -105,7 +105,7 @@ Bio Monica C.
 <details><summary><a href="stefano.marchesi@ifom.eu"><font size="+1"> Stefano Marchesi </font> </a>
 </summary>
 </p align="justified"> 
-Bio Stefano M.
+Stefano Marchesi got a degree in Molecular Cell Biology by the University of Milan in 2006. Then he was enrolled in the PhD Program of SEMM (European School of Molecular Medicine), working in the lab of Pier Paolo Di Fiore (IFOM-IEO Campus) on a project interconnecting cell cycle progression and adhesion signaling. After the completion of PhD course, he moved to the lab of Massimiliano Pagani at INGM (Istituto Nazionale di Genetica Molecolare). Successively he joined Politecnico di Milano as research grant, aiming to characterize the mechanobiology of glioblastoma. From 2019 on, he works as postdoc in the lab of Giorgio Scita at IFOM.
 </p>
 </details>
 
@@ -114,7 +114,7 @@ Bio Stefano M.
 <details><summary><a href="hind.abdo@ifom.eu"><font size="+1"> Hind Abdo </font></a>
 </summary>
 </p align="justified"> 
-Bio Hind.
+Cell biologist by formation and a dreamer by nature, I grew up in Lebanon and ended up in Italy, after a long process of growth and maturation, first in France where I completed my PhD at the University of Nantes/Inserm Unit U913 then in Sweden at the Karolinska institute. Combining an extensive experience across several fields, I joined the laboratory of Prof. Giorgio Scita in 2020, converging my interest on molecular oncology. In particular, I am currently interested in studying the molecular and physical mechanisms controlling tissue fluidification in epithelial cells and the emergence of collective cell locomotion within solid tumors leading to the formation of metastasis.
 </p>
 </details>
 
@@ -174,65 +174,44 @@ Because I am interested in the oncology field, I completed a traineeship at ANGL
 </details>
 
 
+<p align="center">
+<img src="photo/Mattia.jpg" width="300" height="300" />
+<details><summary><a href="davidelazzari7@gmail.com"> <font size="+1"> Mattia Tonani </font> </a> </summary>
+ </p> Hi, i’m Mattia Tonani and I am student attending the medical biotechnology and molecular medicine master course at Universitá degli studi di Milano. Currently, I'm working on my 12 month internship thesis project at IFOM, under the supervision of Professor Giorgio Scita, aimed at discovering new parameters to be analyzed in a novel breast cancer’s mechano-classifier model based on machine learning, to predict the severity of the tumour. During this experience, I have been understanding the pure sense of biological and medical research, with an important focus on computational skills (Python and FIJI image analysis).  </p>
+</details>
+
+
 <!-- Pipelines -->
 ## Pipelines
 In pipeline folder are present all our lab piplines in snakemake or nextflow. Within every folder are present:
-* `.sk` or * `.nf` file, that contain all rules sequence.
+* `.sk` or * `.nf` file, that contain all rules sequence. Usually for the standar pipelines the lab exploits the one in the <a href="https://nf-co.re/"> nf-core </a> repository. 
  ```bash 
- head pipeline/Chip_seq/Chipseq.sk
+ tail nextflow_rnaseq.sh
 
- # lib
-from snakemake.io import glob_wildcards, expand
-import glob,os
-import pathlib
-import pandas as pd
-#import multiqc
-
-#config
-configfile: "config_ATAC_2.yaml"
-```
-
-* `.yaml` file, that must be edit according to organism and statistics and user needs.
- ```bash 
- cat pipeline/Chip_seq/config.yaml
-
-# proj parameters
-Project: "prova_chip_seq"
-skipH: 6
-RAWDATA: "/beegfs/scratch/ric.broccoli/ric.broccoli/prova_chip_seq"
-RUN_ID: "prova_chip_seq" # "RUN_id"
-# genome
-genome: "hg38"
-ref_genome_fa: "/beegfs/scratch/ric.broccoli/ric.broccoli/Genomes/hg38/fa/hg38.fa"
-chrom_sizes: "/beegfs/scratch/ric.broccoli/ric.broccoli/Genomes/hg38/hg38.chrom.sizes"
-# trimming
-adapters: "/beegfs/scratch/ric.broccoli/ric.broccoli/adapters/NexteraPE-PE.fa"
-# blacklist
-blacklist_url: "http://mitra.stanford.edu/kundaje/akundaje/release/blacklists/hg38-human/hg38.blacklist.bed.gz"
-# peaks
-genome_size_bp: 3209286105
-peaks_qvalue: 0.01
-broad_cut_off: 0.001
+ nextflow run nf-core/rnaseq \
+              --outdir output \
+	            -profile slurm,singularity \
+	            -c /path/to/ifom.config \
+	            --input /path/to/my_samplesheet_test.csv \
+	            --fasta /path/to/Homo_sapiens.GRCh38.dna.primary_assembly.fa \
+              --gtf /path/to/Homo_sapiens.GRCh38.104.gtf \
+	            -r 3.13.2 \
+              --save_reference #\
 ```
 * `.csv` file conteins all information abount the metadata of the samples such as sample condition, or whatever you need to specify.
 ```bash
-cat pipeline/Chip_seq/samplesheet.csv
+cat samplesheet.csv
 
-[Header],,,,,,,,,,,
-IEMFileVersion,4,,,,,,,,,,
-Date,2019-06-07 08:32:36+00:00,,,,,,,,,,
-,,,,,,,,,,,
-[Reads],,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-[Settings],,,,,,,,,,,
-,,,,,,,,,,,
-[Data],,,,,,,,,,,
-Lane,Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Container_Label
-,CtrlH3K27acChIP-Seq2_S189_R1_001.fastq.gz,CtrlH3K27acChIP-Seq2_S189_R1_001.fastq.gz,,,UDI0073,CAATTAAC,UDI0073,CGAGATAT,prova_chip_seq,,
-,CtrlH3K27acChIP-Seq2_S189_R2_001.fastq.gz,CtrlH3K27acChIP-Seq2_S189_R2_001.fastq.gz,,,UDI0073,CAATTAAC,UDI0073,CGAGATAT,prova_chip_seq,,
-,InputCtrlChIP-Seqs_S182_R1_001.fastq.gz,InputCtrlChIP-Seqs_S182_R1_001.fastq.gz,,,UDI0073,CAATTAAC,UDI0073,CGAGATAT,prova_chip_seq,,
-,InputCtrlChIP-Seqs_S182_R2_001.fastq.gz,InputCtrlChIP-Seqs_S182_R2_001.fastq.gz,,,UDI0073,CAATTAAC,UDI0073,CGAGATAT,prova_chip_seq,,
+sample,fastq_1,fastq_2,strandedness
+CTRL_1,/path/to/fastq/NG-33919_1_lib709956_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_1_lib709956_10277_4_2.fastq.gz,auto
+FLOW_ONLY_1,/path/to/fastq/NG-33919_2_lib709957_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_2_lib709957_10277_4_2.fastq.gz,auto
+DEFORMED_1,/path/to/fastq/NG-33919_3_lib709958_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_3_lib709958_10277_4_2.fastq.gz,auto
+CTRL_2,/path/to/fastq/NG-33919_4_lib709959_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_4_lib709959_10277_4_2.fastq.gz,auto
+FLOW_ONLY_2,/path/to/fastq/NG-33919_5_lib709960_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_5_lib709960_10277_4_2.fastq.gz,auto
+DEFORMED_2,/path/to/fastq/NG-33919_6_lib709961_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_6_lib709961_10277_4_2.fastq.gz,auto
+CTRL_3,/path/to/fastq/NG-33919_7_lib709962_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_7_lib709962_10277_4_2.fastq.gz,auto
+FLOW_ONLY_3,/path/to/fastq/NG-33919_8_lib709963_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_8_lib709963_10277_4_2.fastq.gz,auto
+DEFORMED_3,/path/to/fastq/NG-33919_9_lib709964_10277_4_1.fastq.gz,/path/to/fastq/NG-33919_9_lib709964_10277_4_2.fastq.gz,auto
 ```
 
 <!-- SCRIPTS -->
@@ -246,10 +225,15 @@ In scripts folder are present stand alone script used generally to perform downs
 <ul>
   <li>
     <div class="references">
-      <p>Person, Some. 2014. “The Merits of Existence.” <em>The People’s Journal</em>.
+      <p>Frittoli E, Palamidessi A. 2023. “Tissue fluidification promotes a cGAS-STING cytosolic DNA response in invasive breast cancer.” <em>Nature Materials. doi: 10.1038/s41563-022-01431-x</em>.
       </p>
     </div>
-  </li>
+  <li>
+    <div class="references">
+      <p>Person, Some. 2014. “The Merits of Existence.” <em>The People’s Journal</em>.
+      </p>
+    </dic>
+  
   <li>Tea</li>
   <li>Milk</li>
 </ul>  
