@@ -29,7 +29,7 @@
       <a href="#scripts">Scripts</a>
     </li>
     <li>
-      <a href="#publications">Scripts</a>
+      <a href="#publications"> Publications</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -64,7 +64,7 @@ Born in 1963 near Parma, Scita enrolled in the Faculty of Biology at the Univers
 
 <p align="center">
 <img src="photo/AndreaP.jpg" width="300" height="300" />  </p>
-<details><summary><a href="andrea.palamidessi@ifom.eu"><font size="+1"> Andrea Palamidessi </font> </a>
+<details><summary><a href="#Andrea_Palamidessi"><font size="+1"> Andrea Palamidessi </font> </a>
 </summary>
 </p align="justified"> 
 Bio Andrea P.
@@ -218,25 +218,89 @@ DEFORMED_3,/path/to/fastq/NG-33919_9_lib709964_10277_4_1.fastq.gz,/path/to/fastq
 ## Scripts
 In scripts folder are present stand alone script used generally to perform downstream analisys like scRNA-seq clustering, Bulk RNA-seq, or custom plot.
 
-
 <!-- PUBLICATIONS -->
 ## Publications
 
-<ul>
+<ol>
   <li>
-    <div class="references">
-      <p>Frittoli E, Palamidessi A. 2023. “Tissue fluidification promotes a cGAS-STING cytosolic DNA response in invasive breast cancer.” <em>Nature Materials. doi: 10.1038/s41563-022-01431-x</em>.
+      <div class="references">
+      <p> <b> Frittoli E  </b>, <b> Palamidessi A </b> </a>, Iannelli F, Zanardi F, Villa S, Barzaghi L,  <b> Abdo H  </b> , Cancila V, Beznoussenko GV, Della Chiara G, Pagani M, Malinverno C, Bhattacharya D, Pisati F, Yu W, Galimberti V, Bonizzi G, Martini E, Mironov AA, Gioia U, Ascione F, Li Q, Havas K, Magni S, Lavagnino Z, Pennacchio FA, Maiuri P, Caponi S, Mattarelli M, Martino S, d'Adda di Fagagna F, Rossi C, Lucioni M, Tancredi R, Pedrazzoli P, Vecchione A, Petrini C, Ferrari F, Lanzuolo C, Bertalot G, Nader G, Foiani M, Piel M, Cerbino R, Giavazzi F, Tripodo C,  <b>Scita G </b> .
+      <b>"Tissue fluidification promotes a cGAS-STING cytosolic DNA response in invasive breast cancer"</b>.
+      <em>Nat Mater. 2022 Dec 29. doi: 10.1038/s41563-022-01431-x. Online ahead of print.PMID: 36581770 </em>. <p align="center"> <img src="photo/1.png" width="100" height="100" /> </p>
+      </p> 
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p>Nader GPF, Agüera-Gonzalez S, Routet F, Gratia M, Maurin M, Cancila V, Cadart C, <b> Palamidessi  A </b>, Ramos RN, San Roman M, Gentili M, Yamada A, Williart A, Lodillinsky C, Lagoutte E, Villard C, Viovy JL, Tripodo C, Galon J, <b> Scita G </b>, Manel N, Chavrier P, Piel M. <b>"Compromised nuclear envelope integrity drives TREX1-dependent DNA damage and tumor cell invasion"</b>.<em>Cell. 2021 Sep 30;184(20):5230-5246.e22. doi: 10.1016/j.cell.2021.08.035. Epub 2021 Sep 21. PMID: 34551315. </em>. <p align="center"> <img src="photo/2.png" width="100" height="100" /> </p> 
       </p>
     </div>
-  <li>
-    <div class="references">
-      <p>Person, Some. 2014. “The Merits of Existence.” <em>The People’s Journal</em>.
-      </p>
-    </dic>
+  </li>
   
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
+  <li>
+      <div class="references">
+      <p> <b> Palamidessi A </b>, Malinverno C, <b>Frittoli E </b>, Corallino S, Barbieri E, Sigismund S, Beznoussenko GV, <b> Martini E </b>, Garre M, Ferrara I, Tripodo C, Ascione F, Cavalcanti-Adam EA, Li Q, Di Fiore PP, Parazzoli D, Giavazzi F, Cerbino R, <b> Scita G </b>. <b> "Unjamming overcomes kinetic and proliferation arrest in terminally differentiated cells and promotes collective motility of carcinoma"</b>. <em> Nat Mater. 2019 Nov;18(11):1252-1263. doi: 10.1038/s41563-019-0425-1. Epub 2019 Jul 22. Erratum in: Nat Mater. 2022 Dec;21(12):1448. PMID: 31332337.</em> <p align="center"> <img src="photo/3.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Bisi S, <b> Marchesi S </b>, Rizvi A, Carra D, Beznoussenko GV, Ferrara I, Deflorian G, Mironov A, Bertalot G, Pisati F, Oldani A, Cattaneo A, Saberamoli G, Pece S, Viale G, Bachi A, Tripodo C, <b> Scita G </b>, <b> Disanza A </b>. <b>"IRSp53 controls plasma membrane shape and polarized transport at the nascent lumen in epithelial tubules".</b> <em> Nat Commun. 2020 Jul 14;11(1):3516. doi: 10.1038/s41467-020-17091-x. PMID: 32665580; PMCID: PMC7360740.</em> <p align="center"> <img src="photo/4.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Corallino S, Malinverno C, Neumann B, Tischer C, <b> Palamidessi A, Frittoli E, </b> Panagiotakopoulou M, <b> Disanza A </b>, Malet-Engra G, Nastaly P, Galli C, Luise C, Bertalot G, Pece S, Di Fiore PP, Gauthier N, Ferrari A, Maiuri P, <b> Scita G </b>. <b> "A RAB35-p85/PI3K axis controls oscillatory apical protrusions required for efficient chemotactic migration" </b>. <em> Nat Commun. 2018 Apr 16;9(1):1475. doi: 10.1038/s41467-018-03571-8. Erratum in: Nat Commun. 2018 May 22;9(1):2085. PMID: 29662076; PMCID: PMC5902610.</em> <p align="center"> <img src="photo/5.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Zobel M, <b> Disanza A </b>, Senic-Matuglia F, Franco M, Colaluca IN, Confalonieri S, Bisi S, Barbieri E, Caldieri G, Sigismund S, Pece S, Chavrier P, Di Fiore PP, <b> Scita G </b>. <b> "A NUMB-EFA6B-ARF6 recycling route controls apically restricted cell protrusions and mesenchymal motility" </b>. <em> J Cell Biol. 2018 Sep 3;217(9):3161-3182. doi: 10.1083/jcb.201802023. Epub 2018 Jul 30. PMID: 30061108; PMCID: PMC6123001.</em> <p align="center"> <img src="photo/6.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Malinverno C, Corallino S, Giavazzi F, Bergert M, Li Q, Leoni M,  <b> Disanza A, Frittoli E, </b> Oldani A,  <b> Martini E  </b>, Lendenmann T, Deflorian G, Beznoussenko GV, Poulikakos D, Haur OK, Uroz M, Trepat X, Parazzoli D, Maiuri P, Yu W, Ferrari A, Cerbino R,  <b> Scita G  </b>.  <b> "Endocytic reawakening of motility in jammed epithelia"  </b>. <em> Nat Mater. 2017 May;16(5):587-596. doi: 10.1038/nmat4848. Epub 2017 Jan 30. PMID: 28135264; PMCID: PMC5407454.</em> <p align="center"> <img src="photo/7.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Kajiho H, Kajiho Y,<b> Frittoli E </b>, Confalonieri S, Bertalot G, Viale G, Di Fiore PP, Oldani A, Garre M, Beznoussenko GV, <b> Palamidessi A </b>, Vecchi M, Chavrier P, Perez F, <b>Scita G</b>. "RAB2A controls MT1-MMP endocytic and E-cadherin polarized Golgi trafficking to promote invasive breast cancer programs"</b>. <em> EMBO Rep. 2016 Jul;17(7):1061-80. doi: 10.15252/embr.201642032. Epub 2016 Jun 2. PMID: 27255086; PMCID: PMC4931572.</em> <p align="center"> <img src="photo/8.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Giampietro C, <b> Disanza A </b>, Bravi L, Barrios-Rodiles M, Corada M, <b> Frittoli E </b>, Savorani C, Lampugnani MG, Boggetti B, Niessen C, Wrana JL, <b> Scita G </b>, Dejana E. <b> "The actin-binding protein EPS8 binds VE-cadherin and modulates YAP localization and signaling" </b>. <em> J Cell Biol. 2015 Dec 21;211(6):1177-92. doi: 10.1083/jcb.201501089. Epub 2015 Dec 14. PMID: 26668327; PMCID: PMC4687874.</em> <p align="center"> <img src="photo/9.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> Rolland Y, Marighetti P, Malinverno C, Confalonieri S, Luise C, Ducano N, <b> Palamidessi A </b>, Bisi S, Kajiho H, Troglio F, Shcherbakova OG, Dunn AR, Oldani A, Lanzetti L, Di Fiore PP,<b> Disanza A, Scita G </b>. <b> "The CDC42-interacting protein 4 controls epithelial cell cohesion and tumor dissemination" </b>. <em> Dev Cell. 2014 Sep 8;30(5):553-68. doi: 10.1016/j.devcel.2014.08.006. PMID: 25203208.</em> <p align="center"> <img src="photo/10.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+
+  <li>
+      <div class="references">
+      <p> <b> Frittoli E., A. Palamidessi </b>, P. Marighetti, S. Confalonieri, F. Bianchi, C. Malinverno, G. Mazzarol, G. Viale, I. Martin-Padura, M. Garre, D. Parazzoli, V. Mattei, S. Cortellino, G. Bertalot, P.P. Di Fiore, and <b> G. Scita. 2014 </b>. <b> "A RAB5/RAB4 recycling circuitry induces a proteolytic invasive program and promotes tumor dissemination" </b>. <em> J Cell Biol. 206:307-328.</em> <p align="center"> <img src="photo/11.png" width="100" height="100" /> </p>
+      </p>
+      </div>
+  </li>
+</ol>  
 
 
 <!-- CONTACT -->
