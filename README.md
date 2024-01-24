@@ -63,7 +63,7 @@ Born in 1963 near Parma, Scita enrolled in the Faculty of Biology at the Univers
 
 
 <p align="center">
-<img src="photo/AndreaP.jpg" width="300" height="300" />  </p>
+<img src="photo/AndreaP.jpeg" width="300" height="300" />  </p>
 <details><summary><a href="#Andrea_Palamidessi"><font size="+1"> Andrea Palamidessi </font> </a>
 </summary>
 </p align="justified"> 
