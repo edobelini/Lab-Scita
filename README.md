@@ -307,9 +307,9 @@ In scripts folder are present stand alone script used generally to perform downs
 ## Contacts
 
 
-Edoardo Bellini - <bellini.edoardo@hsr.it>
+Edoardo Bellini - <edoardo.bellini@ifom.eu>
 
-Giorgio Scita - <giorgio.scita@hsr.it>
+Giorgio Scita - <giorgio.scita@ifom.eu>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
