@@ -46,7 +46,7 @@ The main focus of our team is
 
 * How the mechanical perturbations associated with unjamming by impacting the acquisition of heritable changes influence cell phenotypes, fate, and tumor ecology (tumor cell interaction with immune cells). We will specifically focus on unexpected cellular processes and molecular mechanisms underlying tissue fluidification-dependent genetic rewiring toward a cGAS-STING-mediated innate immunity response by studying the role of mitochondria dynamics, morphology, and integrity during unjamming-via-flocking.
 
-* What are the pathobiological consequence of tissue fluidification by determining whether tissue fluidization can turn immunological cold lesions into hot ones using syngeneic mice models and human specimens.
+* What are the pathobiological consequences of tissue fluidification by determining whether tissue fluidization can turn immunological cold lesions into hot ones using syngeneic mice models and human specimens.
 
 
 <!-- people -->
@@ -76,7 +76,7 @@ Bio Andrea P.
 <details><summary><a href="emanuela.frittoli@ifom.eu"><font size="+1"> Emanuela Frittoli </font> </a>
 </summary>
 </p align="justified"> 
-My name is Emanuela Frittoli and I am a Cellular and Molecular Biologist. I earned my degree in Farmacist at “Università degli Studi di Milano” and my Techincal Biochemicl research diploma, at Mario Negri Institute. Then i'have moved Hospital San Raffaele in Paolo Lusso virology Lab. After i moved to the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, with of Prof. Giorgio Scita and Prof. Pier Paolo di Fiore.
+My name is Emanuela Frittoli and I am a Cellular and Molecular Biologist. I earned my degree in Pharmacy at “Università degli Studi di Milano” and my Techincal Biochemical research diploma, at Mario Negri Institute. Then I have moved to Hospital San Raffaele in Paolo Lusso virology Lab. After I moved to the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, alongside Prof. Giorgio Scita and Prof. Pier Paolo di Fiore.
 </p>
 </details>
 
@@ -86,7 +86,7 @@ My name is Emanuela Frittoli and I am a Cellular and Molecular Biologist. I earn
 <details><summary><a href="andrea.disanza@ifom.eu"><font size="+1"> Andrea Disanza </font> </a>
 </summary>
 </p align="justified"> 
-My name is Andrea Disanza and I am a Cellular and Molecular Biologist. I earned my degree in Biological Sciences at “Università degli Studi di Milano” and my PhD in partnership with the Open University, London, UK, carrying out my research project at the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, under the supervision of Prof. Giorgio Scita and Prof. Pier Paolo di Fiore and at the LEBS, CNRS, Gif-sur-Yvette, France under the supervision of Dr. Marie France Carlier. I completed my scientific training with a two years Post Doc. Since 2008 I hold the position of Staff Scientist in the laboratory of Prof. Giorgio Scita “Mechanism of tumor cell migration” and the position of Teaching Assistant in General Patology at “Università degli Studi di Milano”, Dipartimento Scienze della Saute, Milan, Italy. My research experience ranges across several subjects: molecular biology, cell biology and biochemistry, biochemistry and actin biochemistry, ex vivo and in vivo mouse models and microscopy (Wide Field/Confocal/TIRF). My studies are focused on the interplay between membrane and actin dynamics in the control of migratory and invasive strategies in cancer with an insight in the role of the I-BAR containing protein IRSp53.
+My name is Andrea Disanza and I am a Cellular and Molecular Biologist. I earned my degree in Biological Sciences at “Università degli Studi di Milano” and my PhD in partnership with the Open University, London, UK, carrying out my research project at the European Institute of Oncology (IEO) and at IFOM ETS, Milan, Italy, under the supervision of Prof. Giorgio Scita and Prof. Pier Paolo di Fiore and at the LEBS, CNRS, Gif-sur-Yvette, France under the supervision of Dr. Marie France Carlier. I completed my scientific training with a two years Post Doc. Since 2008 I've been holding the position of Staff Scientist in the laboratory of Prof. Giorgio Scita “Mechanism of tumor cell migration” and the position of Teaching Assistant in General Patology at “Università degli Studi di Milano”, Dipartimento Scienze della Saute, Milan, Italy. My research experiences ranges across several subjects: molecular biology, cell biology and biochemistry, biochemistry and actin biochemistry, ex vivo and in vivo mouse models and microscopy (Wide Field/Confocal/TIRF). My studies are focused on the interplay between membrane and actin dynamics in the control of migratory and invasive strategies in cancer with an insight in the role of the I-BAR containing protein IRSp53.
 </p>
 </details>
 
@@ -105,7 +105,7 @@ Bio Monica C.
 <details><summary><a href="stefano.marchesi@ifom.eu"><font size="+1"> Stefano Marchesi </font> </a>
 </summary>
 </p align="justified"> 
-Stefano Marchesi got a degree in Molecular Cell Biology by the University of Milan in 2006. Then he was enrolled in the PhD Program of SEMM (European School of Molecular Medicine), working in the lab of Pier Paolo Di Fiore (IFOM-IEO Campus) on a project interconnecting cell cycle progression and adhesion signaling. After the completion of PhD course, he moved to the lab of Massimiliano Pagani at INGM (Istituto Nazionale di Genetica Molecolare). Successively he joined Politecnico di Milano as research grant, aiming to characterize the mechanobiology of glioblastoma. From 2019 on, he works as postdoc in the lab of Giorgio Scita at IFOM.
+Stefano Marchesi got a degree in Molecular Cell Biology by the University of Milan in 2006. Then he was enrolled in the PhD Program of SEMM (European School of Molecular Medicine), working in the lab of Pier Paolo Di Fiore (IFOM-IEO Campus) on a project interconnecting cell cycle progression and adhesion signaling. After the completion of PhD course, he moved to the Massimiliano Pagani's lab at INGM (Istituto Nazionale di Genetica Molecolare). Successively, he joined Politecnico di Milano as research grant, aimed at characterizing the mechanobiology of glioblastoma. From 2019 on, he's been working as postdoc in the lab of Giorgio Scita at IFOM.
 </p>
 </details>
 
@@ -114,7 +114,7 @@ Stefano Marchesi got a degree in Molecular Cell Biology by the University of Mil
 <details><summary><a href="hind.abdo@ifom.eu"><font size="+1"> Hind Abdo </font></a>
 </summary>
 </p align="justified"> 
-Cell biologist by formation and a dreamer by nature, I grew up in Lebanon and ended up in Italy, after a long process of growth and maturation, first in France where I completed my PhD at the University of Nantes/Inserm Unit U913 then in Sweden at the Karolinska institute. Combining an extensive experience across several fields, I joined the laboratory of Prof. Giorgio Scita in 2020, converging my interest on molecular oncology. In particular, I am currently interested in studying the molecular and physical mechanisms controlling tissue fluidification in epithelial cells and the emergence of collective cell locomotion within solid tumors leading to the formation of metastasis.
+Cell biologist by formation and a dreamer by nature, I grew up in Lebanon and ended up in Italy, after a long process of growth and maturation, first in France where I completed my PhD at the University of Nantes/Inserm Unit U913, then in Sweden at the Karolinska institute. Combining an extensive experience across several fields, I joined the laboratory of Prof. Giorgio Scita in 2020, converging my interest on molecular oncology. In particular, I am currently interested in studying the molecular and physical mechanisms controlling tissue fluidification in epithelial cells and the emergence of collective cell locomotion within solid tumors leading to the formation of metastasis.
 </p>
 </details>
 
@@ -148,14 +148,14 @@ Edoardo Bellini is a computational biologist and Bioinformatician working on bas
 <p align="center">
 <img src="photo/Leonardo.jpg" width="300" height="300" />
 <details><summary><a href="leonardo.barzaghi@ifom.eu"><font size="+1">Leonardo Barzaghi </font> </a> </summary>
- </p> Leonardo Barzaghi earned his Bachelor's degree in Medical Biotechnology and later completed his Master's degree in Molecular Biotechnology and Bioinformatics at Università degli Studi di Milano. During his Master's program, he joined the research team led by Giorgio Scita, exploring the role of RAB5A protein family members in collective motility within epithelial cell monolayers. Intrigued by the multidisciplinary approaches used in his lab, Leonardo chose to continue his academic journey under the mentorship of Giorgio Scita, pursuing a Ph.D. in Molecular Oncology at SEMM. Now in his fourth year, Leonardo's research focus is at the intersection of cell biology and biophysics. He is specifically investigating the complex role of mechanical heterogeneity in breast cancer invasion, utilising 2D and 3D in vitro models. Leonardo's expertise includes live cell imaging and image analysis, with a particular emphasis on characterising collective cell motility at a biophysical level.  </p>
+ </p> Leonardo Barzaghi earned his Bachelor's degree in Medical Biotechnology and later completed his Master's degree in Molecular Biotechnology and Bioinformatics at "Università degli Studi di Milano". During his Master's program, he joined the research team led by Giorgio Scita, exploring the role of RAB5A protein family members in collective motility within epithelial cell monolayers. Intrigued by the multidisciplinary approaches used in his lab, Leonardo chose to continue his academic journey under the mentorship of Giorgio Scita, pursuing a Ph.D. in Molecular Oncology at SEMM. Now, in his fourth year, Leonardo's research focus is at the intersection of cell biology and biophysics. He is specifically investigating the complex role of mechanical heterogeneity in breast cancer invasion, utilising 2D and 3D in vitro models. Leonardo's expertise includes live cell imaging and image analysis, with a particular emphasis on characterising collective cell motility at a biophysical level.  </p>
 </details>
 
 <p align="center">
 <img src="photo/Camillo.jpg" width="300" height="300" />
 <details><summary><a href="camillo.mazzella@ifom.eu"><font size="+1"> Camillo Mazzella </font>  </a> </summary>
- </p> Hi, I'Camillo Mazzella. I started as an engineer with a master’s degree in Industrial Bioengineering  Naples Federico II. 
-Because I am interested in the oncology field, I completed a traineeship at ANGLE plc to model microfluidic devices for liquid biopsy. Then, I focused my career on oncology research to have better understand tumor biology. Actually, I'm a PhD student at IFOM, to study the impact of cell motility in cancer progression, within the group of Professor Giorgio Scita.  </p>
+ </p> Hi, I am Camillo Mazzella. I started as an engineer with a master’s degree in Industrial Bioengineering  Naples Federico II. 
+Because I am interested in the oncology field, I completed a traineeship at ANGLE plc to model microfluidic devices for liquid biopsy. Then, I focused my career on oncology research to have better understand tumor biology. Currently, I'm a PhD student at IFOM, to study the impact of cell motility in cancer progression, within the group of Professor Giorgio Scita.  </p>
 </details>
 
 
@@ -177,7 +177,7 @@ Because I am interested in the oncology field, I completed a traineeship at ANGL
 <p align="center">
 <img src="photo/Mattia.jpg" width="300" height="300" />
 <details><summary><a href="davidelazzari7@gmail.com"> <font size="+1"> Mattia Tonani </font> </a> </summary>
- </p> Hi, i’m Mattia Tonani and I am student attending the medical biotechnology and molecular medicine master course at Universitá degli studi di Milano. Currently, I'm working on my 12 month internship thesis project at IFOM, under the supervision of Professor Giorgio Scita, aimed at discovering new parameters to be analyzed in a novel breast cancer’s mechano-classifier model based on machine learning, to predict the severity of the tumour. During this experience, I have been understanding the pure sense of biological and medical research, with an important focus on computational skills (Python and FIJI image analysis).  </p>
+ </p> I am Mattia Tonani and I am student attending the medical biotechnology and molecular medicine master course at "Universitá degli studi di Milano". Currently, I'm focused on my 12 month internship thesis project at IFOM, under the supervision of Professor Giorgio Scita, aimed at discovering new parameters to be analyzed in a novel breast cancer’s mechano-classifier model based on machine learning, to predict the severity of the tumour. During this experience, I have been understanding the pure sense of biological and medical research, with an important focus on computational skills (Python and FIJI image analysis).  </p>
 </details>
 
 
