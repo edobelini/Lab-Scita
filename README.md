@@ -170,7 +170,7 @@ Because I am interested in the oncology field, I completed a traineeship at ANGL
 <p align="center">
 <img src="photo/Davide.jpg" width="300" height="300" />
 <details><summary><a href="davidelazzari7@gmail.com"> <font size="+1"> Davide Lazzari </font> </a> </summary>
- </p> Bio Davide </p>
+ </p> My name is Davide Lazzari, I am 26 years old and I received a Master's degree in Biomedical Engineering, with a specialization in Bionanotechnology, at the “Politecnico di Torino”. During my academic career, I did my master's thesis at the University of Alberta, Canada, and later worked at the Charité Hospital in Berlin. In both experiences, I devoted myself to the study of bioelectric therapies in the field of oncology, obtaining results worthy of publication. These experiences increased my interest in biomedicine and oncology where I think I can make a contribution from an engineering standpoint. I consider myself blessed to be able to continue my academic and professional journey with a doctoral degree at the Scita Lab at IFOM </p>
 </details>
 
 
